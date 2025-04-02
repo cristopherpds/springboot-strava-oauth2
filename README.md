@@ -1,4 +1,9 @@
 # Strava OAuth2 Integration Step by Step
+![image](https://github.com/user-attachments/assets/c779d1c2-7b66-4d62-b604-e40582654501)
+![image](https://github.com/user-attachments/assets/d703aaa0-9369-4545-bdb9-dd1a3ee5d235)
+![image](https://github.com/user-attachments/assets/d693019a-81e2-4233-adff-4655096fc7f4)
+
+
 
 Este Step by Step muestra cómo crear una aplicación Spring Boot que se integra con la API de Strava utilizando OAuth2 para autenticar a los usuarios y acceder a sus datos de actividad física.
 
